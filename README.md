@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Michelle!
 
-<!--
+
 **michelleelim/michelleelim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mylim@bu.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to bake!
--->
